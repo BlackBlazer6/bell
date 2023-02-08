@@ -9,7 +9,7 @@ class BellTimer {
     this.requestManager = requestManager
 
     this.debug = function () {}
-    this.devMode = false
+    this.devMode = true
     this.startTime = 0
     this.timeScale = 1
 
